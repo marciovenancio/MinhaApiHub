@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinhaApiHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+068275195895097e8fa6ccde96f1dd93d712adb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinhaApiHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinhaApiHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
